@@ -5,8 +5,8 @@ import re
 
 # ----------------- CONFIGURATION -------------------
 EXCEL_FILE = "ai_robotics_qa.xlsx"  # <-- Change if needed
-FIREBASE_DB_URL = "https://qa-system-97317-default-rtdb.asia-southeast1.firebasedatabase.app/"  # <-- Your Firebase URL
-SERVICE_ACCOUNT_FILE = "qa-system-97317-firebase-adminsdk-fbsvc-ef55f9a971.json"  # <-- Your downloaded credentials file
+FIREBASE_DB_URL = "HI"  # <-- Your Firebase URL
+SERVICE_ACCOUNT_FILE = "HI"  # <-- Your downloaded credentials file
 # ---------------------------------------------------
 
 # 1. Load Excel File
